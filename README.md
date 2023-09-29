@@ -14,7 +14,7 @@ assistant teacher en  Soy Henry.
 - ❓ Pregúntame sobre cualquier cosa relacionada con la pila MERN y tecnologías relacionadas.  
   
 
-- ⚡ Dato curioso: u  
+- ⚡ Dato curioso: me apaciona la musica.
   
 
 <br/>  
